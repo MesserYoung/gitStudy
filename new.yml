@@ -1,10 +1,3 @@
-programmer:
-  age: 20
-  name: 伟大的公鸡
-  married: false
-  hireDate: 2018/12/23
-  salary: 66666.88
-  random: ${random.int[1024,65536]}
-  skill: {java: master, jquery: proficiency}
-  company: [baidu,tengxun,alibaba]
+myl:
+ veil: veil
 
